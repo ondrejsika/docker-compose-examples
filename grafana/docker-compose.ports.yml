@@ -1,4 +1,4 @@
 services:
-  prometheus:
+  grafana:
     ports:
       - ${PORT:-3000}:3000
