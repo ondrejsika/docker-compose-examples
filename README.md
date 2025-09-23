@@ -2,4 +2,4 @@
 
 # docker-compose-examples
 
-Examples of many docker-comose.yml files
+Examples of many docker-compose.yml files
